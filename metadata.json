@@ -1,0 +1,6 @@
+{
+  "name": "QuickPrint QR - সেলফ সার্ভিস প্রিন্টিং সিস্টেম",
+  "description": "স্মার্ট কিউআর কোড স্ক্যান করে কাস্টমারের নিজস্ব ফাইল আপলোড এবং কাউন্টারে সরাসরি প্রিন্ট করার কমপ্লিট প্রিন্টিং শপ ও কিওস্ক সলিউশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
